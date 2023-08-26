@@ -33,6 +33,17 @@
             ]
         }
     ],
+    "FUMO": [
+        {
+            "meaning": "Fumo é um termo usado pelos alunos da universidade para dizer que algo é ou foi muito difícil e se deu mal. É um termo usado para definir uma avaliação ou uma disciplina como algo muito difícil.",
+            "type": "Gíria",
+            "entry": "Fumo",
+            "examples": [
+                "Cálculo é fumo viu...",
+                "Levei fumo nessa prova de EDA."
+            ]
+        }
+    ],
     "LEITE": [
         {
             "meaning": "Leites são provas de períodos passados de uma disciplina. Muitos alunos usam para estudar para a prova pois muitas vezes a prova possui questões semelhantes às dos períodos anteriores. Inclusive, dá uma olhada lá no Tamburetei que tem alguns disponíveis!",
@@ -86,17 +97,6 @@
             "examples": [
                 "Aquela disciplina né uma cadeira não, é um tamburete",
                 "Venha fazer de tamburete as cadeiras de CC com o Tamburetei!"
-            ]
-        }
-    ],
-    "FUMO": [
-        {
-            "meaning": "Fumo é um termo usado pelos alunos da universidade para dizer que algo é ou foi muito difícil e se deu mal. É um termo usado para definir uma avaliação ou uma disciplina como algo muito difícil.",
-            "type": "Gíria",
-            "entry": "Fumo",
-            "examples": [
-                "Cálculo é fumo viu...",
-                "Levei fumo nessa prova de EDA."
             ]
         }
     ]

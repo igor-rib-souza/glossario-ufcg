@@ -237,6 +237,17 @@
             ]
         }
     ],
+    "IHC": [
+        {
+            "acronym": "IHC",
+            "meaning": "Interface Homem Máquina é uma disciplina optativa do curso de Ciência da Computação na UFCG que visa o estudo de interfaces gráficas, interação humano-computador e técnicas de design voltadas para o UX.",
+            "type": "Disciplina",
+            "entry": "Interface Homem Máquina",
+            "examples": [
+                "Vi em IHC que esse botão poderia ser melhor posicionado."
+            ]
+        }
+    ],
     "INFOSOC": [
         {
             "acronym": "INFOSOC",
